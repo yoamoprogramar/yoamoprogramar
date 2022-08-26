@@ -1,4 +1,5 @@
 ### Hi there 👋
+<div align="center"><h1>Hola Soy René Domínguez </h1></div>
 
 <!--
 **yoamoprogramar/yoamoprogramar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
